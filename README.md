@@ -21,33 +21,33 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 
 ## Technical Roles
 
-- Data Integration Manager & Web Developer, [FazTrack LLC, Arizona](https://faztrack.com/)
-- Student Tutor, MAT 092 : Remedial Course in Mathematic, [BRAC University](https://www.bracu.ac.bd/)
-- Research Assistant, [BRAC University](https://www.bracu.ac.bd/)
-- Physics Tutor, GCSE and AS-Level, [Primus Institute](https://www.facebook.com/PrimusInstitution)
+- **Data Integration Manager & Web Developer**, [FazTrack LLC, Arizona](https://faztrack.com/)
+- **Student Tutor**, MAT 092 : Remedial Course in Mathematic, [BRAC University](https://www.bracu.ac.bd/)
+- **Research Assistant**, [BRAC University](https://www.bracu.ac.bd/)
+- **Physics Tutor**, GCSE and AS-Level, [Primus Institute](https://www.facebook.com/PrimusInstitution)
 
 ## Professional Experience
 ### NotFixedYet Podcast | Creator                            
 - Interview with Tom Sosnoff (CEO of *tastylive*., Sold Tastytrade for $1 billion and Thinkorswim for $750 million)                            
 [[Watch Reel]]((https://www.instagram.com/reel/C7qJdT0yI-Y/))                  
--Interview with Alex Costa (Ex-Googler and Founder of Forte Series) and Michael Sartain (Former US Air Force Captain and Founder of MOA Mentoring)                                                    
+- Interview with Alex Costa (Ex-Googler and Founder of Forte Series) and Michael Sartain (Former US Air Force Captain and Founder of MOA Mentoring)                                                    
 [[Watch Reel]](https://www.instagram.com/reel/C3de6C-yide/)
 
 
 ## Featured Projects
 ### AI-Matching Platform For VCs and Investors 
 - Invited to present idea at buildspace, a San Francisco-based startup accelerator.                
-[[Demo Video]](https://www.instagram.com/reel/C9e6pG2hoMz/) [[Live Site]](https://youthventureai.streamlit.app/) [[Source Code]](https://github.com/Fahim-Azwad/youthventure.ai)
+- [[Demo Video]](https://www.instagram.com/reel/C9e6pG2hoMz/) [[Live Site]](https://youthventureai.streamlit.app/) [[Source Code]](https://github.com/Fahim-Azwad/youthventure.ai)
 
 ### Web 3.0 Transaction App                                                    
-[[Live Site]](https://web3-app-windows-azwad-fahim.vercel.app/) [[Source Code]](https://github.com/Fahim-Azwad/web3-app)      
+- [[Live Site]](https://web3-app-windows-azwad-fahim.vercel.app/) [[Source Code]](https://github.com/Fahim-Azwad/web3-app)      
 
 ### Predicting Taxi Fares in New York City using XGBoost and LightGBM                                                      
-[[Research Paper]](https://github.com/errhythm/NYCTaxiFarePred/blob/main/Paper/Paper.pdf) [[Source Code](https://github.com/errhythm/NYCTaxiFarePred/tree/main)			              	                          
+- [[Research Paper]](https://github.com/errhythm/NYCTaxiFarePred/blob/main/Paper/Paper.pdf) [[Source Code](https://github.com/errhythm/NYCTaxiFarePred/tree/main)			              	                          
 
 ### COVID-19 Mask Delivery Service
 - Founded and ran a COVID-19 relief initiative that provided essential 1000+ PPE (personal protective equipment) to doctors in remote areas.               
-[[Facebook page]](https://www.facebook.com/MedicsKit)
+- [[Facebook page]](https://www.facebook.com/MedicsKit)
 
 
 
