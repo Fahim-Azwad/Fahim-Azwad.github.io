@@ -6,6 +6,12 @@ author: "S.M.Azwad-Ul-Alam"
 email: "azwadfahim@gmail.com.com"
 #google_analytics: ""
 
+logo_style: |
+  max-width: 200px;
+  border-radius: 50%;
+  margin: 20px auto;
+  display: block;
+
 # 2. Collection
 collections:
   posts:
