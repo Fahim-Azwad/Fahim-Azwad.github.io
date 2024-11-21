@@ -17,36 +17,36 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 *Md. Ishmam Tasin, Md. Rabib Hossain, Nahin Chowdhury, **S.M. Azwad-Ul-Alam***  
 [[Read Paper]](assets/manuscripts/microfinance.pdf)
 
-## Work
-● Not Fixed Yet Podcast       
-*Creator* 
-Recent Guests-                      
--Tom Sosnoff 
-(CEO of *tastylive*. Sold Tastytrade for $1 billion and Thinkorswim for $750 million) [[Watch Shorts]]((https://www.instagram.com/reel/C7qJdT0yI-Y/))                   
--Alex Costa (Ex-Googler and Founder of Forte Series) and Michael Sartain (Former US Air Force Captain and Founder of MOA Mentoring) [[LiWatch Shorts]](https://www.instagram.com/reel/C3de6C-yide/)
+### Technical Roles
+- **Data Integration Manager & Web Developer** | [FazTrack LLC, Arizona](https://faztrack.com/)
+- **Student Tutor, MAT 092 : Remedial Course in Mathematics** | [BRAC University](https://www.bracu.ac.bd/)
+- **Research Assistant** | [BRAC University](https://www.bracu.ac.bd/)
+- **Physics Tutor, GCSE and AS-Level** | [Primus Institute](https://www.facebook.com/PrimusInstitution)
 
-● [FazTrack Technology LLC., Arizona](https://faztrack.com/)              
-*Data Integration Manager and Web Developer*
+## Professional Experience
+### NotFixedYet Podcast | Creator                            
+- Interview with Tom Sosnoff (CEO of *tastylive*., Sold Tastytrade for $1 billion and Thinkorswim for $750 million)                            
+[[Watch Reel]]((https://www.instagram.com/reel/C7qJdT0yI-Y/))                  
+-Interview with Alex Costa (Ex-Googler and Founder of Forte Series) and Michael Sartain (Former US Air Force Captain and Founder of MOA Mentoring)                                                    
+[[Watch Reel]](https://www.instagram.com/reel/C3de6C-yide/)
 
-● [BRAC University](https://www.bracu.ac.bd/)                           
-*Student Tutor for MAT 092: Remedial Course in Mathematics*                                                          
 
-● [BRAC University](https://www.bracu.ac.bd/)                          
-*Thesis Research Assistant*    
+## Featured Projects
+### AI-Matching Platform For VCs and Investors 
+- Selected for San Francisco conference presentation                    
+- [Demo Video](https://www.instagram.com/reel/C9e6pG2hoMz/)
+- [Live Site](https://youthventureai.streamlit.app/)
+- [Source Code](https://github.com/Fahim-Azwad/youthventure.ai)
 
-● [Primus Institute](https://www.facebook.com/PrimusInstitution)                                                 
-*Physics Tutor for GCSE and AS-Level*
+### Web 3.0 Transaction App                                                    
+- [Live Site](https://web3-app-windows-azwad-fahim.vercel.app/)
+- [Source Code](https://github.com/Fahim-Azwad/web3-app)      
 
-## Projects
-● AI-Matching Platform For VCs and Investors                     
-[[Demo Video]](https://www.instagram.com/reel/C9e6pG2hoMz/) [[Site]](https://youthventureai.streamlit.app/) [[Code]](https://github.com/Fahim-Azwad/youthventure.ai) [[Invitation Letter]](assets/invitation/buildspace.jpg)                  
--Invited to present idea at San Francisco conference
+### Predicting Taxi Fares in New York City using XGBoost and LightGBM                                                      
+- [[Research Paper]](https://github.com/errhythm/NYCTaxiFarePred/blob/main/Paper/Paper.pdf) 
+- [[Source Code]](https://github.com/errhythm/NYCTaxiFarePred/tree/main)			              	                          
 
-● Web 3.0 App Transaction App                                                       
-[[Site]](https://web3-app-windows-azwad-fahim.vercel.app/) [[Code]](https://github.com/Fahim-Azwad/web3-app)       
 
-● Predicting Taxi Fares in New York City using XGBoost and LightGBM                                                      
-[[Paper]](https://github.com/errhythm/NYCTaxiFarePred/blob/main/Paper/Paper.pdf) [[Code]](https://github.com/errhythm/NYCTaxiFarePred/tree/main)			              	                          
 
 <!-- 
 <span style="font-size:18px;">[Blog](./blog.html)</span> for fun.
