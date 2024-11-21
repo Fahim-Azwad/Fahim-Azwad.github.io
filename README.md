@@ -2,11 +2,12 @@ I'm a Computer Science graduate who has conducted research with [Prof. Mahbubul 
 
 As data, AI, and blockchain create amazing opportunities worldwide, I'm excited to be part of the movement making these transformative technologies accessible, particularly in Southeast Asia's social and medical sectors. The challenge lies in the technical expertise these innovations demand. My mission is to bridge this gap by creating user-friendly interfaces that democratize these powerful technologies, making them accessible to everyone – not just programmers and domain experts.
 
-Beyond my technical pursuits, I love reading (currently on a 40 books per year pace), working out (maintaining 12% body fat), and producing ["NotFixedYet Podcast"](https://www.instagram.com/reel/C7qJdT0yI-Y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) — where I explore entrepreneurship and technology that shape our future.
+Beyond my technical pursuits, I love reading (currently on a 40 books per year pace), working out (maintaining 12% body fat), and producing ["NotFixedYet Podcast"](https://www.instagram.com/reel/C7qJdT0yI-Y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) — where I explore entrepreneurship and technology that shape our future. Sometimes I also write poems.
 
 ## Ongoing Projects
 
 ### Applications of Diffusion AI Models in the Medical Field and Their Data Analysis
+
 
 Diffusion models are generative AI algorithms that create new data (i.e., images and videos) by systematically removing noise from random datasets. In healthcare, while they are showing promising applications, each medical use case requires careful adaptation. The field is rapidly evolving, with new research findings published daily, making it challenging for practitioners to stay updated and implement these advances effectively. In an ideal scenario, all the research would be consolidated in a single place based on their holistic context.
 
@@ -20,19 +21,10 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 
 ## Technical Roles
 
-• **Data Integration Manager & Web Developer**
-  - [FazTrack LLC, Arizona](https://faztrack.com/)
-  
-• **Student Tutor**
-  - MAT 092: Remedial Course in Mathematics
-  - [BRAC University](https://www.bracu.ac.bd/)
-
-• **Research Assistant**
-  - [BRAC University](https://www.bracu.ac.bd/)
-
-• **Physics Tutor**
-  - GCSE and AS-Level
-  - [Primus Institute](https://www.facebook.com/PrimusInstitution)
+- Data Integration Manager & Web Developer, [FazTrack LLC, Arizona](https://faztrack.com/)
+- Student Tutor, MAT 092 : Remedial Course in Mathematic, [BRAC University](https://www.bracu.ac.bd/)
+- Research Assistant, [BRAC University](https://www.bracu.ac.bd/)
+- Physics Tutor, GCSE and AS-Level, [Primus Institute](https://www.facebook.com/PrimusInstitution)
 
 ## Professional Experience
 ### NotFixedYet Podcast | Creator                            
@@ -44,18 +36,18 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 
 ## Featured Projects
 ### AI-Matching Platform For VCs and Investors 
-- Selected for San Francisco conference presentation                    
-- [Demo Video](https://www.instagram.com/reel/C9e6pG2hoMz/)
-- [Live Site](https://youthventureai.streamlit.app/)
-- [Source Code](https://github.com/Fahim-Azwad/youthventure.ai)
+- Invited to present idea at buildspace, a San Francisco-based startup accelerator.                
+[[Demo Video]](https://www.instagram.com/reel/C9e6pG2hoMz/) [[Live Site]](https://youthventureai.streamlit.app/) [[Source Code]](https://github.com/Fahim-Azwad/youthventure.ai)
 
 ### Web 3.0 Transaction App                                                    
-- [Live Site](https://web3-app-windows-azwad-fahim.vercel.app/)
-- [Source Code](https://github.com/Fahim-Azwad/web3-app)      
+[[Live Site]](https://web3-app-windows-azwad-fahim.vercel.app/) [[Source Code]](https://github.com/Fahim-Azwad/web3-app)      
 
 ### Predicting Taxi Fares in New York City using XGBoost and LightGBM                                                      
-- [Research Paper](https://github.com/errhythm/NYCTaxiFarePred/blob/main/Paper/Paper.pdf) 
-- [Source Code](https://github.com/errhythm/NYCTaxiFarePred/tree/main)			              	                          
+[[Research Paper]](https://github.com/errhythm/NYCTaxiFarePred/blob/main/Paper/Paper.pdf) [[Source Code](https://github.com/errhythm/NYCTaxiFarePred/tree/main)			              	                          
+
+### COVID-19 Mask Delivery Service
+- Founded and ran a COVID-19 relief initiative that provided essential 1000+ PPE (personal protective equipment) to doctors in remote areas.               
+[[Facebook page]](https://www.facebook.com/MedicsKit)
 
 
 
