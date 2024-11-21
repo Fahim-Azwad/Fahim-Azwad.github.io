@@ -4,25 +4,26 @@ As data, AI, and blockchain reshape our world, there's a critical need to make t
 
 Beyond my technical pursuits, I love reading (currently on a 40 books per year pace), working out (maintaining 12% body fat), and producing ["NotFixedYet Podcast"](https://www.instagram.com/reel/C7qJdT0yI-Y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) - where I explore entrepreneurship and technology that shape our future.
 
-## On-Going Projects
+## Ongoing Projects
 
-### Applications of AI Diffusion AI Models in the Medical Field and its Data Analysis
+### Applications of Diffusion AI Models in the Medical Field and its Data Analysis
 Diffusion models are generative AI algorithms that create new data (i.e., images and videos) by systematically removing noise from random datasets. In healthcare, while they are showing promising applications, each medical use case requires careful adaptation. The field is rapidly evolving, with new research findings published daily, making it challenging for practitioners to stay updated and implement these advances effectively. In an ideal scenario, all the research would be consolidated in a single place based on their holistic context.
 
 To alleviate this issue, we are conducting research to provide a comprehensive overview of the current state of diffusion models in the medical field. This methodical study uses data analysis and survey best practices to identify existing research. We also analyze characteristics based on the data provided and explore the premise of the research, including the country-context in which the research was conducted and developed. We would further like to explore how these can be used in mental health field. 
 
 
 ## Research
-[Revolutionizing microfinance: a blockchain-driven decentralized finance (DeFi) model for collateral-free loans](https://dspace.bracu.ac.bd/xmlui/handle/10361/21985)  
-*Md. Ishmam Tasin, Md. Rabib Hossain, Nahin Chowdhury, <strong>S.M. Azwad-Ul-Alam</strong>*                       
-[[IEEE Manuscript]](assets/manuscripts/microfinance.pdf)
+**[Revolutionizing microfinance: a blockchain-driven DeFi model for collateral-free loans](https://dspace.bracu.ac.bd/xmlui/handle/10361/21985)**  
+*Md. Ishmam Tasin, Md. Rabib Hossain, Nahin Chowdhury, **S.M. Azwad-Ul-Alam***  
+[[Read Paper]](assets/manuscripts/microfinance.pdf)
 
 ## Work
 ● Not Fixed Yet Podcast       
-*Creator*                       
+*Creator* 
+Recent Guests-                      
 -Tom Sosnoff 
-(CEO of *tastylive*. Sold Tastytrade for $1 billion and Thinkorswim for $750 million) [[Link]]((https://www.instagram.com/reel/C7qJdT0yI-Y/))                   
--Alex Costa (Ex-Googler and Founder of Forte Series) and Michael Sartain (Former US Air Force Captain and Founder of MOA Mentoring) [[Link]](https://www.instagram.com/reel/C3de6C-yide/)
+(CEO of *tastylive*. Sold Tastytrade for $1 billion and Thinkorswim for $750 million) [[Watch Shorts]]((https://www.instagram.com/reel/C7qJdT0yI-Y/))                   
+-Alex Costa (Ex-Googler and Founder of Forte Series) and Michael Sartain (Former US Air Force Captain and Founder of MOA Mentoring) [[LiWatch Shorts]](https://www.instagram.com/reel/C3de6C-yide/)
 
 ● [FazTrack Technology LLC., Arizona](https://faztrack.com/)              
 *Data Integration Manager and Web Developer*
