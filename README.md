@@ -43,7 +43,7 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 - [[Live Site]](https://web3-app-windows-azwad-fahim.vercel.app/) [[Source Code]](https://github.com/Fahim-Azwad/web3-app)      
 
 ### Predicting Taxi Fares in New York City using XGBoost and LightGBM                                                      
-- [[Research Paper]](https://github.com/errhythm/NYCTaxiFarePred/blob/main/Paper/Paper.pdf) [[Source Code](https://github.com/errhythm/NYCTaxiFarePred/tree/main)			              	                          
+- [[Research Paper]](https://github.com/errhythm/NYCTaxiFarePred/blob/main/Paper/Paper.pdf) [[Source Code]](https://github.com/errhythm/NYCTaxiFarePred/tree/main)			              	                          
 
 ### COVID-19 Mask Delivery Service
 - Founded and ran a COVID-19 relief initiative that provided essential 1000+ PPE (personal protective equipment) to doctors in remote areas.               
