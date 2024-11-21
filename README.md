@@ -14,8 +14,8 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 
 ## Research
 [Revolutionizing microfinance: a blockchain-driven decentralized finance (DeFi) model for collateral-free loans](https://dspace.bracu.ac.bd/xmlui/handle/10361/21985)  
-*Md. Ishmam Tasin, Md. Rabib Hossain, Nahin Chowdhury, <strong>S.M. Azwad-Ul-Alam</strong>*
-[IEEE Manuscript](assets/manuscripts/microfinance.pdf)
+*Md. Ishmam Tasin, Md. Rabib Hossain, Nahin Chowdhury, <strong>S.M. Azwad-Ul-Alam</strong>*                       
+[[IEEE Manuscript]](assets/manuscripts/microfinance.pdf)
 
 ## Work
 ● Not Fixed Yet Podcast       
