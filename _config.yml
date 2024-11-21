@@ -1,0 +1,16 @@
+# 1. Site settings
+theme: jekyll-theme-minimal
+logo: "/assets/logos/logo.jpg"
+title: "S.M.Azwad-Ul-Alam"
+author: "S.M.Azwad-Ul-Alam"
+email: "azwadfahim@gmail.com.com"
+#google_analytics: ""
+
+# 2. Collection
+collections:
+  posts:
+    output: true
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  LinkedIn: https://www.linkedin.com/in/fahimazwad/
+  GitHub: https://github.com/Fahim-Azwad
