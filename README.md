@@ -38,7 +38,7 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 
 ## Projects
 ● AI-Matching Platform For VCs and Investors                     
-[[Demo Video]](https://www.instagram.com/reel/C9e6pG2hoMz/) [[Site]](https://youthventureai.streamlit.app/) [[Code]](https://github.com/Fahim-Azwad/youthventure.ai) [[Invitation Letter]](assets/invitation/buildspace.jpg)
+[[Demo Video]](https://www.instagram.com/reel/C9e6pG2hoMz/) [[Site]](https://youthventureai.streamlit.app/) [[Code]](https://github.com/Fahim-Azwad/youthventure.ai) [[Invitation Letter]](assets/invitation/buildspace.jpg)                  
 -Invited to present idea at San Francisco conference
 
 ● Web 3.0 App Transaction App                                                       
