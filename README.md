@@ -7,6 +7,7 @@ Beyond my technical pursuits, I love reading (currently on a 40 books per year p
 ## Ongoing Projects
 
 ### Applications of Diffusion AI Models in the Medical Field and its Data Analysis
+
 Diffusion models are generative AI algorithms that create new data (i.e., images and videos) by systematically removing noise from random datasets. In healthcare, while they are showing promising applications, each medical use case requires careful adaptation. The field is rapidly evolving, with new research findings published daily, making it challenging for practitioners to stay updated and implement these advances effectively. In an ideal scenario, all the research would be consolidated in a single place based on their holistic context.
 
 To alleviate this issue, we are conducting research to provide a comprehensive overview of the current state of diffusion models in the medical field. This methodical study uses data analysis and survey best practices to identify existing research. We also analyze characteristics based on the data provided and explore the premise of the research, including the country-context in which the research was conducted and developed. We would further like to explore how these can be used in mental health field. 
@@ -18,10 +19,10 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 [[Read Paper]](assets/manuscripts/microfinance.pdf)
 
 ### Technical Roles
-- **Data Integration Manager & Web Developer** | [FazTrack LLC, Arizona](https://faztrack.com/)
-- **Student Tutor, MAT 092 : Remedial Course in Mathematics** | [BRAC University](https://www.bracu.ac.bd/)
-- **Research Assistant** | [BRAC University](https://www.bracu.ac.bd/)
-- **Physics Tutor, GCSE and AS-Level** | [Primus Institute](https://www.facebook.com/PrimusInstitution)
+- Data Integration Manager & Web Developer | [FazTrack LLC, Arizona](https://faztrack.com/)
+- Student Tutor, MAT 092 : Remedial Course in Mathematics | [BRAC University](https://www.bracu.ac.bd/)
+- Research Assistant | [BRAC University](https://www.bracu.ac.bd/)
+- Physics Tutor, GCSE and AS-Level | [Primus Institute](https://www.facebook.com/PrimusInstitution)
 
 ## Professional Experience
 ### NotFixedYet Podcast | Creator                            
@@ -43,8 +44,8 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 - [Source Code](https://github.com/Fahim-Azwad/web3-app)      
 
 ### Predicting Taxi Fares in New York City using XGBoost and LightGBM                                                      
-- [[Research Paper]](https://github.com/errhythm/NYCTaxiFarePred/blob/main/Paper/Paper.pdf) 
-- [[Source Code]](https://github.com/errhythm/NYCTaxiFarePred/tree/main)			              	                          
+- [Research Paper](https://github.com/errhythm/NYCTaxiFarePred/blob/main/Paper/Paper.pdf) 
+- [Source Code](https://github.com/errhythm/NYCTaxiFarePred/tree/main)			              	                          
 
 
 
