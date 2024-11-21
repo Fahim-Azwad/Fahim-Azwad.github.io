@@ -18,33 +18,34 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 (![IEEE Manuscript](assets/manuscripts/microfinance.pdf))
 
 ## Work
-●Not Fixed Yet Podcast       
-*Creator*                         
--[Tom Sosnoff (CEO of tastylive and Founder of Tastytrade (acquired for $1 billion) and Thinkorswim (acquired for $750 million))]((https://www.instagram.com/reel/C7qJdT0yI-Y/))                   
--[Alex Costa (Ex-Googler and Founder of Forte Series - 7 figures in revenue) and Michael Sartain (Former US Air Force Captain and Founder of MOA Mentoring -7 figures in revenue)](https://www.instagram.com/reel/C3de6C-yide/)
+● Not Fixed Yet Podcast       
+*Creator*                       
+-Tom Sosnoff 
+(CEO of *tastylive*. Sold Tastytrade for $1 billion and Thinkorswim for $750 million) [Link]((https://www.instagram.com/reel/C7qJdT0yI-Y/))                   
+-Alex Costa (Ex-Googler and Founder of Forte Series) and Michael Sartain (Former US Air Force Captain and Founder of MOA Mentoring) [Link](https://www.instagram.com/reel/C3de6C-yide/)
 
-●[FazTrack Technology LLC., Arizona](https://faztrack.com/)              
+● [FazTrack Technology LLC., Arizona](https://faztrack.com/)              
 *Data Integration Manager and Web Developer*
 
-●[BRAC University](https://www.bracu.ac.bd/)                           
+● [BRAC University](https://www.bracu.ac.bd/)                           
 *Student Tutor for MAT 092: Remedial Course in Mathematics*                                                          
 
-●[BRAC University](https://www.bracu.ac.bd/)                          
+● [BRAC University](https://www.bracu.ac.bd/)                          
 *Thesis Research Assistant*    
 
-●[Primus Institute](https://www.facebook.com/PrimusInstitution)                                                 
+● [Primus Institute](https://www.facebook.com/PrimusInstitution)                                                 
 *Physics Tutor for GCSE and AS-Level*
 
 ## Projects
-●AI-Matching Platform For VCs and Investors                     
+● AI-Matching Platform For VCs and Investors                     
 [[Demo Video]](https://www.instagram.com/reel/C9e6pG2hoMz/) [[Site]](https://youthventureai.streamlit.app/) [[Code]](https://github.com/Fahim-Azwad/youthventure.ai) [[Invitation Letter]](assets/invitation/buildspace.jpg)
 -Invited to present idea at San Francisco conference
 
-●Web 3.0 App Transaction App                            
-[Code](https://github.com/Fahim-Azwad/web3-app)[Site](https://web3-app-windows-azwad-fahim.vercel.app/)       
+● Web 3.0 App Transaction App                                                       
+[[Site]](https://web3-app-windows-azwad-fahim.vercel.app/) [[Code]](https://github.com/Fahim-Azwad/web3-app)       
 
-●Predicting Taxi Fares in New York City using XGBoost and LightGBM                            
-[Paper](https://github.com/errhythm/NYCTaxiFarePred/blob/main/Paper/Paper.pdf) [Code](https://github.com/errhythm/NYCTaxiFarePred/tree/main)			              	                          
+● Predicting Taxi Fares in New York City using XGBoost and LightGBM                                                      
+[[Paper]](https://github.com/errhythm/NYCTaxiFarePred/blob/main/Paper/Paper.pdf) [[Code]](https://github.com/errhythm/NYCTaxiFarePred/tree/main)			              	                          
 
 <!-- 
 <span style="font-size:18px;">[Blog](./blog.html)</span> for fun.
