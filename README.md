@@ -21,8 +21,8 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 ● Not Fixed Yet Podcast       
 *Creator*                       
 -Tom Sosnoff 
-(CEO of *tastylive*. Sold Tastytrade for $1 billion and Thinkorswim for $750 million) [Link]((https://www.instagram.com/reel/C7qJdT0yI-Y/))                   
--Alex Costa (Ex-Googler and Founder of Forte Series) and Michael Sartain (Former US Air Force Captain and Founder of MOA Mentoring) [Link](https://www.instagram.com/reel/C3de6C-yide/)
+(CEO of *tastylive*. Sold Tastytrade for $1 billion and Thinkorswim for $750 million) [[Link]]((https://www.instagram.com/reel/C7qJdT0yI-Y/))                   
+-Alex Costa (Ex-Googler and Founder of Forte Series) and Michael Sartain (Former US Air Force Captain and Founder of MOA Mentoring) [[Link]](https://www.instagram.com/reel/C3de6C-yide/)
 
 ● [FazTrack Technology LLC., Arizona](https://faztrack.com/)              
 *Data Integration Manager and Web Developer*
