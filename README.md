@@ -23,6 +23,11 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 
 ### Technical Roles
 - **Data Integration Manager & Web Developer**, [FazTrack LLC, Arizona](https://faztrack.com/)
+    - [[Site]](https://www.treehousecommunities.com/) [[Code]](https://github.com/Fahim-Azwad/TableUpdater.git)
+    - Migrated live .NET website to Webflow using JavaScript UI frameworks for Treehouse Communities, who managed 700+ RV homes across 114 US properties. Maintained the site until it was acquired by Roots Management Groups.
+    - Integrated data into the site from PostgreSQL and Microsoft SQL backend services running on Azure server.
+    - Automated data integration using Python scripts and unit testing
+    - Optimized data flow from multiple property management systems via Postman
 
 ### Academic Roles
 - **Research Assistant**, under *Dr. Mahbubul Alam Majumdar* and *Md. Golam Rabiul Alam*, [BRAC University](https://www.bracu.ac.bd/)
