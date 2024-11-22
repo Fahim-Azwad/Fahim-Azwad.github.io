@@ -35,14 +35,14 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 - Interview with *Tom Sosnoff* (CEO of *tastylive*. Sold Tastytrade for $1 billion and Thinkorswim for $750 million)                            
     [[Watch Reel]](https://www.instagram.com/reel/C7nI7bIhGQu/)        
 
-- Interview with *Alex Costa* (Ex-Googler and Founder of Forte Series) and Michael Sartain (Former US Air Force Captain and Founder of MOA Mentoring)                                                    
+- Interview with *Alex Costa* (Ex-Googler and Founder of Forte Series) and *Michael Sartain* (Former US Air Force Captain and Founder of MOA Mentoring)                                                    
     [[Watch Reel]](https://www.instagram.com/reel/C3de6C-yide/)
 
 
 ## Featured Projects
 ### AI-Matching Platform For VCs and Investors 
 - Invited to present idea at *buildspace*, a San Francisco-based startup accelerator.                
-- [[Demo Video]](https://www.instagram.com/reel/C9e6pG2hoMz/) [[Live Site]](https://youthventureai.streamlit.app/) [[Source Code]](https://github.com/Fahim-Azwad/youthventure.ai)
+- [[Demo Video]](https://www.instagram.com/reel/C9e6pG2hoMz/) [[Live Site]](https://youthventureai.streamlit.app/) [[Source Code]](https://github.com/Fahim-Azwad/youthventure.ai) [[Invitation Letter]](assets/invitation/buildspace.jpg)
 
 ### Web 3.0 Transaction App                                                    
 - [[Live Site]](https://web3-app-windows-azwad-fahim.vercel.app/) [[Source Code]](https://github.com/Fahim-Azwad/web3-app)      
