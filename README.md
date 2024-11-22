@@ -1,4 +1,4 @@
-I'm a Computer Science graduate who has conducted research with [Prof. Mahbubul Alam Majumdar](https://www.bracu.ac.bd/about/people/mahbubul-alam-majumdar-phd){:target="_blank"}, [Prof. Md Sadek Ferdous](https://scholar.google.co.uk/citations?user=DnQAee0AAAAJ&hl=en){:target="_blank"}, and [Prof. Md. Golam Rabiul Alam](https://scholar.google.com/citations?user=t4GrJR4AAAAJ&hl=en){:target="_blank"} at BRAC University. Recently, I served as a Data Integration Manager and Web Developer at [FazTrack LLC, Arizona](https://faztrack.com/){:target="_blank"}, where I oversaw the website transition for [Treehouse Communities](https://rootsmg.com/){:target="_blank"}. I managed the data for over 700+ RV homes across 114 US properties until it was acquired by Roots Management Group.
+I'm a Computer Science graduate who has conducted research with [Prof. Mahbubul Alam Majumdar](https://www.bracu.ac.bd/about/people/mahbubul-alam-majumdar-phd){:target="_blank"}, [Prof. Md Sadek Ferdous](https://scholar.google.co.uk/citations?user=DnQAee0AAAAJ&hl=en){:target="_blank"}, and [Prof. Md. Golam Rabiul Alam](https://scholar.google.com/citations?user=t4GrJR4AAAAJ&hl=en){:target="_blank"} at BRAC University. Recently, I served as a Data Integration Manager and Web Developer at [FazTrack LLC, Arizona](https://faztrack.com/){:target="_blank"}, where I oversaw the website transition for [Treehouse Communities](https://rootsmg.com/){:target="_blank"}.  I managed data for over 700 RV homes across 114 US properties until the company was acquired by Roots Management Group.
 
 As data inference, AI, and blockchain create amazing opportunities worldwide, I'm excited to be part of the movement making these transformative technologies accessible, particularly in Southeast Asia's social and medical sectors. The challenge lies in the technical expertise these innovations demand. My mission is to bridge this gap by creating user-friendly interfaces that democratize these powerful technologies, making them accessible to everyone – not just programmers and domain experts.
 
@@ -24,10 +24,11 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 ### Technical Roles
 - **Data Integration Manager & Web Developer**, [FazTrack LLC, Arizona](https://faztrack.com/){:target="_blank"}
     - [[Site]](https://www.treehousecommunities.com/){:target="_blank"} [[Code]](https://github.com/Fahim-Azwad/TableUpdater.git){:target="_blank"}
-    - Migrated live .NET website to Webflow using JavaScript UI frameworks for Treehouse Communities, who managed 700+ RV homes across 114 US properties. Maintained the site until it was acquired by Roots Management Groups.
-    - Integrated data into the site from PostgreSQL and Microsoft SQL backend services running on Azure server.
-    - Automated data integration using Python scripts and unit testing
-    - Optimized data flow from multiple property management systems via Postman
+    - Successfully migrated a live .NET website to Webflow using JavaScript UI frameworks for Treehouse Communities, managing 700+ RV homes across 114 US properties until acquisition by Roots Management Group
+    - Lead a team of senior developers as a junior developer to implement the project
+    - Integrated data from PostgreSQL and Microsoft SQL backend services running on Azure server
+    - Developed automated data integration processes using Python scripts with unit testing
+    - Streamlined data flow from multiple property management systems using Postman
 
 ### Academic Roles
 - **Research Assistant**, under *Dr. Mahbubul Alam Majumdar* and *Md. Golam Rabiul Alam*, [BRAC University](https://www.bracu.ac.bd/){:target="_blank"}
