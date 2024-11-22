@@ -19,30 +19,19 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 *Md. Ishmam Tasin, Md. Rabib Hossain, Nahin Chowdhury, **S.M. Azwad-Ul-Alam***  
 [[Read Paper]](assets/manuscripts/microfinance.pdf)
 
-## Technical Roles
-
-- **Data Integration Manager & Web Developer**, [FazTrack LLC, Arizona](https://faztrack.com/)
-- **Student Tutor**, MAT 092 : Remedial Course in Mathematic, [BRAC University](https://www.bracu.ac.bd/)
-- **Research Assistant**, [BRAC University](https://www.bracu.ac.bd/)
-- **Physics Tutor**, GCSE and AS-Level, [Primus Institute](https://www.facebook.com/PrimusInstitution)
-
 ## Professional Experience
 
-- **Technical Roles**
-  - **Data Integration Manager & Web Developer**
-    - [FazTrack LLC, Arizona](https://faztrack.com/)
+### Technical Roles
+- **Data Integration Manager & Web Developer**, [FazTrack LLC, Arizona](https://faztrack.com/)
 
-- **Academic Roles**
-  - **Research Assistant**
-    - [BRAC University](https://www.bracu.ac.bd/)
-  
-  - **Teaching Positions**
-    - Student Tutor, MAT 092: Remedial Course in Mathematics
-      [BRAC University](https://www.bracu.ac.bd/)
-    - Physics Tutor, GCSE and AS-Level
-      [Primus Institute](https://www.facebook.com/PrimusInstitution)
+### Academic Roles
+- **Research Assistant**, [BRAC University](https://www.bracu.ac.bd/)
 
-- **NotFixedYet Podcast | Creator**                            
+### Teaching Positions
+- **Student Tutor**, MAT 092 : Remedial Course in Mathematic, [BRAC University](https://www.bracu.ac.bd/)
+- **Physics Tutor**, GCSE and AS-Level, [Primus Institute](https://www.facebook.com/PrimusInstitution)
+
+### NotFixedYet Podcast | Creator                          
     - Interview with Tom Sosnoff (CEO of *tastylive*., Sold Tastytrade for $1 billion and Thinkorswim for $750 million)                            
     [[Watch Reel]](https://www.instagram.com/reel/C7nI7bIhGQu/)                  
     - Interview with Alex Costa (Ex-Googler and Founder of Forte Series) and Michael Sartain (Former US Air Force Captain and Founder of MOA Mentoring)                                                    
