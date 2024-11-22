@@ -27,11 +27,26 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 - **Physics Tutor**, GCSE and AS-Level, [Primus Institute](https://www.facebook.com/PrimusInstitution)
 
 ## Professional Experience
-### NotFixedYet Podcast | Creator                            
-- Interview with Tom Sosnoff (CEO of *tastylive*., Sold Tastytrade for $1 billion and Thinkorswim for $750 million)                            
-[[Watch Reel]](https://www.instagram.com/reel/C7nI7bIhGQu/)                  
-- Interview with Alex Costa (Ex-Googler and Founder of Forte Series) and Michael Sartain (Former US Air Force Captain and Founder of MOA Mentoring)                                                    
-[[Watch Reel]](https://www.instagram.com/reel/C3de6C-yide/)
+
+- **Technical Roles**
+  - **Data Integration Manager & Web Developer**
+    - [FazTrack LLC, Arizona](https://faztrack.com/)
+
+- **Academic Roles**
+  - **Research Assistant**
+    - [BRAC University](https://www.bracu.ac.bd/)
+  
+  - **Teaching Positions**
+    - Student Tutor, MAT 092: Remedial Course in Mathematics
+      [BRAC University](https://www.bracu.ac.bd/)
+    - Physics Tutor, GCSE and AS-Level
+      [Primus Institute](https://www.facebook.com/PrimusInstitution)
+
+- **NotFixedYet Podcast | Creator**                            
+    - Interview with Tom Sosnoff (CEO of *tastylive*., Sold Tastytrade for $1 billion and Thinkorswim for $750 million)                            
+    [[Watch Reel]](https://www.instagram.com/reel/C7nI7bIhGQu/)                  
+    - Interview with Alex Costa (Ex-Googler and Founder of Forte Series) and Michael Sartain (Former US Air Force Captain and Founder of MOA Mentoring)                                                    
+    [[Watch Reel]](https://www.instagram.com/reel/C3de6C-yide/)
 
 
 ## Featured Projects
