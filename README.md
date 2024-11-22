@@ -25,7 +25,7 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 - **Data Integration Manager & Web Developer**, [FazTrack LLC, Arizona](https://faztrack.com/)
 
 ### Academic Roles
-- **Research Assistant**, under *Dr. Mahbubul Alam Majumdar* and *Md. Golam Rabiul Alam* [BRAC University](https://www.bracu.ac.bd/)
+- **Research Assistant**, under *Dr. Mahbubul Alam Majumdar* and *Md. Golam Rabiul Alam*, [BRAC University](https://www.bracu.ac.bd/)
 
 ### Teaching Positions
 - **Student Tutor**, MAT 092 : Remedial Course in Mathematic, [BRAC University](https://www.bracu.ac.bd/)
