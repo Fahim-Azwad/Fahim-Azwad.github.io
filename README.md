@@ -1,8 +1,8 @@
-I'm a Computer Science graduate who has conducted research with [Prof. Mahbubul Alam Majumdar](https://www.bracu.ac.bd/about/people/mahbubul-alam-majumdar-phd){:target="_blank"}, [Prof. Md Sadek Ferdous](https://scholar.google.co.uk/citations?user=DnQAee0AAAAJ&hl=en), and [Prof. Md. Golam Rabiul Alam](https://scholar.google.com/citations?user=t4GrJR4AAAAJ&hl=en) at BRAC University. Recently, I served as a Data Integration Manager and Web Developer at [FazTrack LLC, Arizona](https://faztrack.com/), where I oversaw the website transition for [Treehouse Communities](https://rootsmg.com/). I managed the data for over 700+ RV homes across 114 US properties until it was acquired by Roots Management Group.
+I'm a Computer Science graduate who has conducted research with [Prof. Mahbubul Alam Majumdar](https://www.bracu.ac.bd/about/people/mahbubul-alam-majumdar-phd){:target="_blank"}, [Prof. Md Sadek Ferdous](https://scholar.google.co.uk/citations?user=DnQAee0AAAAJ&hl=en){:target="_blank"}, and [Prof. Md. Golam Rabiul Alam](https://scholar.google.com/citations?user=t4GrJR4AAAAJ&hl=en){:target="_blank"} at BRAC University. Recently, I served as a Data Integration Manager and Web Developer at [FazTrack LLC, Arizona](https://faztrack.com/){:target="_blank"}, where I oversaw the website transition for [Treehouse Communities](https://rootsmg.com/){:target="_blank"}. I managed the data for over 700+ RV homes across 114 US properties until it was acquired by Roots Management Group.
 
 As data inference, AI, and blockchain create amazing opportunities worldwide, I'm excited to be part of the movement making these transformative technologies accessible, particularly in Southeast Asia's social and medical sectors. The challenge lies in the technical expertise these innovations demand. My mission is to bridge this gap by creating user-friendly interfaces that democratize these powerful technologies, making them accessible to everyone – not just programmers and domain experts.
 
-Beyond my technical pursuits, I love reading (currently on a 40 books per year pace), working out (maintaining 12% body fat), and producing ["NotFixedYet Podcast"](https://www.instagram.com/reel/C7qJdT0yI-Y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) — where I explore entrepreneurship and technology that shape our future. Sometimes I also write poems.
+Beyond my technical pursuits, I love reading (currently on a 40 books per year pace), working out (maintaining 12% body fat), and producing ["NotFixedYet Podcast"](https://www.instagram.com/reel/C7qJdT0yI-Y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==){:target="_blank"} — where I explore entrepreneurship and technology that shape our future. Sometimes I also write poems.
 
 ## Ongoing Projects
 
@@ -15,49 +15,49 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 
 
 ## Research
-**[Revolutionizing microfinance: a blockchain-driven DeFi model for collateral-free loans](https://dspace.bracu.ac.bd/xmlui/handle/10361/21985)**  
+**[Revolutionizing microfinance: a blockchain-driven DeFi model for collateral-free loans](https://dspace.bracu.ac.bd/xmlui/handle/10361/21985){:target="_blank"}**  
 *Md. Ishmam Tasin, Md. Rabib Hossain, Nahin Chowdhury, **S M Azwad Ul Alam**, Md Sadek Ferdous*   
-[[Read Paper]](assets/manuscripts/microfinance.pdf)
+[[Read Paper]](assets/manuscripts/microfinance.pdf){:target="_blank"}
 
 ## Professional Experience
 
 ### Technical Roles
-- **Data Integration Manager & Web Developer**, [FazTrack LLC, Arizona](https://faztrack.com/)
-    - [[Site]](https://www.treehousecommunities.com/) [[Code]](https://github.com/Fahim-Azwad/TableUpdater.git)
+- **Data Integration Manager & Web Developer**, [FazTrack LLC, Arizona](https://faztrack.com/){:target="_blank"}
+    - [[Site]](https://www.treehousecommunities.com/){:target="_blank"} [[Code]](https://github.com/Fahim-Azwad/TableUpdater.git){:target="_blank"}
     - Migrated live .NET website to Webflow using JavaScript UI frameworks for Treehouse Communities, who managed 700+ RV homes across 114 US properties. Maintained the site until it was acquired by Roots Management Groups.
     - Integrated data into the site from PostgreSQL and Microsoft SQL backend services running on Azure server.
     - Automated data integration using Python scripts and unit testing
     - Optimized data flow from multiple property management systems via Postman
 
 ### Academic Roles
-- **Research Assistant**, under *Dr. Mahbubul Alam Majumdar* and *Md. Golam Rabiul Alam*, [BRAC University](https://www.bracu.ac.bd/)
+- **Research Assistant**, under *Dr. Mahbubul Alam Majumdar* and *Md. Golam Rabiul Alam*, [BRAC University](https://www.bracu.ac.bd/){:target="_blank"}
 
 ### Teaching Positions
-- **Student Tutor**, MAT 092 : Remedial Course in Mathematic, [BRAC University](https://www.bracu.ac.bd/)
-- **Physics Tutor**, GCSE and AS-Level, [Primus Institute](https://www.facebook.com/PrimusInstitution)
+- **Student Tutor**, MAT 092 : Remedial Course in Mathematic, [BRAC University](https://www.bracu.ac.bd/){:target="_blank"}
+- **Physics Tutor**, GCSE and AS-Level, [Primus Institute](https://www.facebook.com/PrimusInstitution){:target="_blank"}
 
 ### NotFixedYet Podcast | Creator                          
 - Interview with *Tom Sosnoff* (CEO of *tastylive*. Sold Tastytrade for $1 billion and Thinkorswim for $750 million)                            
-    [[Watch Reel]](https://www.instagram.com/reel/C7nI7bIhGQu/)        
+    [[Watch Reel]](https://www.instagram.com/reel/C7nI7bIhGQu/){:target="_blank"}        
 
 - Interview with *Alex Costa* (Ex-Googler and Founder of Forte Series) and *Michael Sartain* (Former US Air Force Captain and Founder of MOA Mentoring)                                                    
-    [[Watch Reel]](https://www.instagram.com/reel/C3de6C-yide/)
+    [[Watch Reel]](https://www.instagram.com/reel/C3de6C-yide/){:target="_blank"}
 
 
 ## Featured Projects
 ### AI-Matching Platform For VCs and Investors 
 - Invited to present idea at *buildspace*, a San Francisco-based startup accelerator.                
-- [[Demo Video]](https://www.instagram.com/reel/C9e6pG2hoMz/) [[Live Site]](https://youthventureai.streamlit.app/) [[Source Code]](https://github.com/Fahim-Azwad/youthventure.ai) [[Invitation Letter]](assets/invitation/buildspace.jpg)
+- [[Demo Video]](https://www.instagram.com/reel/C9e6pG2hoMz/){:target="_blank"} [[Live Site]](https://youthventureai.streamlit.app/){:target="_blank"} [[Source Code]](https://github.com/Fahim-Azwad/youthventure.ai){:target="_blank"} [[Invitation Letter]](assets/invitation/buildspace.jpg){:target="_blank"}
 
 ### Web 3.0 Transaction App                                                    
-- [[Live Site]](https://web3-app-windows-azwad-fahim.vercel.app/) [[Source Code]](https://github.com/Fahim-Azwad/web3-app)      
+- [[Live Site]](https://web3-app-windows-azwad-fahim.vercel.app/){:target="_blank"} [[Source Code]](https://github.com/Fahim-Azwad/web3-app){:target="_blank"}      
 
 ### Predicting Taxi Fares in New York City using XGBoost and LightGBM                                                      
-- [[Research Paper]](https://github.com/errhythm/NYCTaxiFarePred/blob/main/Paper/Paper.pdf) [[Source Code]](https://github.com/errhythm/NYCTaxiFarePred/tree/main)			              	                          
+- [[Research Paper]](https://github.com/errhythm/NYCTaxiFarePred/blob/main/Paper/Paper.pdf){:target="_blank"} [[Source Code]](https://github.com/errhythm/NYCTaxiFarePred/tree/main){:target="_blank"}			              	                          
 
 ### COVID-19 Mask Delivery Service
 - Founded and ran a COVID-19 relief initiative that provided essential 1000+ PPE (personal protective equipment) to doctors in remote areas.               
-- [[Facebook page]](https://www.facebook.com/MedicsKit)
+- [[Facebook page]](https://www.facebook.com/MedicsKit){:target="_blank"}
 
 
 
