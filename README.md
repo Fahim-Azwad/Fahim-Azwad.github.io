@@ -2,7 +2,7 @@ I'm a Computer Science graduate who has conducted research with [Prof. Mahbubul 
 
 As data inference, AI, and blockchain create amazing opportunities worldwide, I'm excited to be part of the movement making these transformative technologies accessible, particularly in Southeast Asia's social and medical sectors. The challenge lies in the technical expertise these innovations demand. My mission is to bridge this gap by creating user-friendly interfaces that democratize these powerful technologies, making them accessible to everyone – not just programmers and domain experts.
 
-Beyond my technical pursuits, I love reading (currently on a 40 books per year pace), working out (maintaining 12% body fat), and producing ["NotFixedYet Podcast"](https://www.instagram.com/reel/C7qJdT0yI-Y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==){:target="_blank"} — where I explore entrepreneurship and technology that shape our future. Sometimes I also write poems.
+Beyond my technical pursuits, I love reading (currently on a 40 books per year pace), working out (maintaining 12% body fat), and producing ["NotFixedYet Podcast"](https://www.instagram.com/reel/C7qJdT0yI-Y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==){:target="_blank"} — where I explore entrepreneurship and technology that shape our future. Sometimes I also write poems and follow football (soccer), the NFL, and the NBA (Let's go Warriors!).
 
 ## Ongoing Projects
 
@@ -16,7 +16,7 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 
 ## Research
 **[Revolutionizing microfinance: a blockchain-driven DeFi model for collateral-free loans](https://dspace.bracu.ac.bd/xmlui/handle/10361/21985){:target="_blank"}**  
-*Md. Ishmam Tasin, Md. Rabib Hossain, Nahin Chowdhury, **S M Azwad Ul Alam**, Md Sadek Ferdous*   
+*Md. Ishmam Tasin, Md. Rabib Hossain, Nahin Chowdhury, **S M Azwad Ul Alam**, Md Sadek Ferdous.*   
 [[Read Paper]](assets/manuscripts/microfinance.pdf){:target="_blank"}
 
 ## Professional Experience
@@ -24,24 +24,24 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 ### Technical Roles
 - **Data Integration Manager & Web Developer**, [FazTrack LLC, Arizona](https://faztrack.com/){:target="_blank"}
     - [[Site]](https://www.treehousecommunities.com/){:target="_blank"} [[Code]](https://github.com/Fahim-Azwad/TableUpdater.git){:target="_blank"}
-    - Successfully migrated a live .NET website to Webflow using JavaScript UI frameworks for Treehouse Communities, managing 700+ RV homes across 114 US properties until acquisition by Roots Management Group
-    - Lead a team of senior developers as a junior developer to implement the project
-    - Integrated data from PostgreSQL and Microsoft SQL backend services running on Azure server
-    - Developed automated data integration processes using Python scripts with unit testing
-    - Streamlined data flow from multiple property management systems using Postman
+    - Successfully migrated a live .NET website to Webflow using JavaScript UI frameworks for Treehouse Communities, managing 700+ RV homes across 114 US properties until acquisition by Roots Management Group.
+    - Lead a team of senior developers as a junior developer to implement the project.
+    - Integrated data from PostgreSQL and Microsoft SQL backend services running on Azure server.
+    - Developed automated data integration processes using Python scripts with unit testing.
+    - Streamlined data flow from multiple property management systems using Postman.
 
 ### Academic Roles
-- **Research Assistant**, under *Dr. Mahbubul Alam Majumdar* and *Md. Golam Rabiul Alam*, [BRAC University](https://www.bracu.ac.bd/){:target="_blank"}
+- **Research Assistant**, under *Dr. Mahbubul Alam Majumdar* and *Md. Golam Rabiul Alam*, [BRAC University](https://www.bracu.ac.bd/){:target="_blank"}.
 
 ### Teaching Positions
-- **Student Tutor**, MAT 092 : Remedial Course in Mathematic, [BRAC University](https://www.bracu.ac.bd/){:target="_blank"}
-- **Physics Tutor**, GCSE and AS-Level, [Primus Institute](https://www.facebook.com/PrimusInstitution){:target="_blank"}
+- **Student Tutor**, MAT 092 : Remedial Course in Mathematic, [BRAC University](https://www.bracu.ac.bd/).{:target="_blank"}
+- **Physics Tutor**, GCSE and AS-Level, [Primus Institute](https://www.facebook.com/PrimusInstitution){:target="_blank"}.
 
 ### NotFixedYet Podcast | Creator                          
-- Interview with *Tom Sosnoff* (CEO of *tastylive*. Sold Tastytrade for $1 billion and Thinkorswim for $750 million)                            
+- Interview with *Tom Sosnoff* (CEO of *tastylive*. Sold Tastytrade for $1 billion and Thinkorswim for $750 million).                            
     [[Watch Reel]](https://www.instagram.com/reel/C7nI7bIhGQu/){:target="_blank"}        
 
-- Interview with *Alex Costa* (Ex-Googler and Founder of Forte Series) and *Michael Sartain* (Former US Air Force Captain and Founder of MOA Mentoring)                                                    
+- Interview with *Alex Costa* (Ex-Googler and Founder of Forte Series) and *Michael Sartain* (Former US Air Force Captain and Founder of MOA Mentoring).                                                    
     [[Watch Reel]](https://www.instagram.com/reel/C3de6C-yide/){:target="_blank"}
 
 
