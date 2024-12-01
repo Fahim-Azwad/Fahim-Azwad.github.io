@@ -34,7 +34,7 @@ To alleviate this issue, we are conducting research to provide a comprehensive o
 - **Research Assistant**, under *Dr. Mahbubul Alam Majumdar* and *Md. Golam Rabiul Alam*, [BRAC University](https://www.bracu.ac.bd/){:target="_blank"}.
 
 ### Teaching Positions
-- **Student Tutor**, MAT 092 : Remedial Course in Mathematic, [BRAC University](https://www.bracu.ac.bd/).{:target="_blank"}
+- **Student Tutor**, MAT 092 : Remedial Course in Mathematic, [BRAC University](https://www.bracu.ac.bd/){:target="_blank"}.
 - **Physics Tutor**, GCSE and AS-Level, [Primus Institute](https://www.facebook.com/PrimusInstitution){:target="_blank"}.
 
 ### NotFixedYet Podcast | Creator                          
